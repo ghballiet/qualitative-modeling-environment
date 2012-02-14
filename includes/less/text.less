@@ -1,0 +1,83 @@
+@import "bootstrap";
+
+#left div.group, #left2 div.group, #myModal {
+  div.row {
+    color: darken(@grayLighter, 10);
+    #font > .sans-serif(light, 1em, 1em);
+    font-family: 'Signika Negative', sans-serif;
+    padding: .25em 14px;
+    //.no-select;
+    
+    input.chkInclude {
+      margin: 0px;
+      margin-right: .5em;
+      cursor: hand;
+    }
+    
+    span.place {
+      color: @grayLight;
+    }
+    
+    span.stable {
+      color: darken(@blue, 10);
+    }
+    
+    span.transient {
+      color: darken(@orange, 10);
+    }
+    
+    span.name {
+      color: @gray;
+      outline: none;
+      &:focus {
+        background: @gray;
+        color: @white;
+      }
+    }
+    
+    span.varies-ambiguously {
+      color: @purple;
+    }
+    
+    span.time {
+      color: @gray;
+    }
+    
+    span.location {
+      color: @grayLight;
+      cursor: pointer;
+    }
+    
+    span.increases {
+      color: @green;
+    }
+    
+    span.decreases {
+      color: @red;
+    }
+    
+    span.does-not-change {
+      color: @yellow;
+    }
+    
+    span.deleteBtn {
+      margin-left: 1em;
+      float: right;
+      color: @red;
+      cursor: pointer;
+      .no-select;
+    }
+  }
+  
+  div.row.highlight {
+    background: lighten(@yellow, 25);
+  }
+}
+
+#myModal div.row {
+  margin-top: 1em;
+
+  span.deleteBtn {
+    display: none;
+  }
+}

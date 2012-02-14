@@ -1,0 +1,2 @@
+
+[{"id":"B1","prediction":"P1","fact":"F4","relation":"AGREE"},{"id":"B2","prediction":"P2","fact":"F3","relation":"AGREE"},{"id":"B3","prediction":"P3","fact":"F2","relation":"AGREE"},{"id":"B4","prediction":"P4","fact":"F1","relation":"DISAGREE"}]

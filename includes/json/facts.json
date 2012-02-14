@@ -1,0 +1,2 @@
+
+[{"id":"F1","from":"Q0","to":"Q7","direction":"INCREASES","note":"NIL"},{"id":"F2","from":"Q0","to":"Q8","direction":"INCREASES","note":"NIL"},{"id":"F3","from":"Q5","to":"Q9","direction":"DECREASES","note":"NIL"},{"id":"F4","from":"Q5","to":"Q11","direction":"DOES-NOT-CHANGE","note":"NIL"}]

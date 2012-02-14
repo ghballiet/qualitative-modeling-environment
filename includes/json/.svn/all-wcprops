@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/15/trunk/includes/json
+END
+places.json
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/includes/json/places.json
+END
+claims.json
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/includes/json/claims.json
+END
+beliefs.json
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9/trunk/includes/json/beliefs.json
+END
+facts.json
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/includes/json/facts.json
+END
+predictions.json
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/13/trunk/includes/json/predictions.json
+END
+quantities.json
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/includes/json/quantities.json
+END
